@@ -1,0 +1,1 @@
+SUSPENSE and LAZY =  react jsda komponentaning to'lia yuklanib bo'lguncha uning o'rniga boshqa kontentni yoki biros bir komponentani chiqarib turushi uchun kerak bo'ladi
