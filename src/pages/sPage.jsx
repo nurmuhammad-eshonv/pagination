@@ -12,6 +12,7 @@ function sPage() {
             setData(imagesAfterTwenty);
         });
     }, []);
+console.log("aisd");
 
     console.log(data);
 

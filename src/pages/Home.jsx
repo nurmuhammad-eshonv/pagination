@@ -5,13 +5,13 @@ function Home() {
     const [data, setData] = useState([])
 
     useEffect(() => {
-        fetch("http://localhost:3000/machines?page=1&limit=20")
+        fetch("http://localhost:3000/machines?page=1&limit=10")
         .then(res => res.json())
         .then(data => {
            setData(data.results)
         });
     }, [])
-   console.log(data);
+   console.log("asdas");
    
   return (
     <div className="flex flex-wrap justify-center gap-10 mt-20">

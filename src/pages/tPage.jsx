@@ -13,7 +13,7 @@ function tPage() {
         });
     }, []);
 
-    console.log(data);
+    console.log("dasdas");
 
     return (
         <div className="flex flex-wrap justify-center gap-10 mt-20">
